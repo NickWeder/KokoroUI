@@ -1,9 +1,11 @@
 How to Use:
 
-1. Start preperation.bat
-2. wait till all downloads are done
-3. Start Run.bat
-4. Have fun!
+
+1. Install python 3.11 or higher
+2. Start preperation.bat
+3. wait till all downloads are done
+4. Start Run.bat
+5. Have fun!
 
 TODO:
 
