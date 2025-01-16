@@ -80,7 +80,7 @@ python UserInterface.py
 
 ## License
 
-[Your chosen license]
+Apache-2.0 license
 
 ## Acknowledgments
 
