@@ -85,7 +85,7 @@ Apache-2.0 license
 ## Acknowledgments
 
 - [Kokoro ONNX](https://github.com/hexgrad/Kokoro) for the text-to-speech model
-- HuggingFace for model hosting
+- [HuggingFace](https://huggingface.co/hexgrad/Kokoro-82M) for model hosting
 
 ## Contributing
 
