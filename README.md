@@ -20,8 +20,8 @@ A desktop application that converts text to speech using the Kokoro ONNX model. 
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/NickWeder/KokoroUI.git]
-cd [KokoroUI]
+git clone https://github.com/NickWeder/KokoroUI.git
+cd KokoroUI
 ```
 
 2. Run the preparation script:
